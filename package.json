@@ -1,0 +1,14 @@
+{
+    "name": "app-nodejs",
+    "version": "1.0.0",
+    "description": "Application Node.js minimaliste pour Docker",
+    "main": "index.js",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "VotreNom",
+    "license": "MIT"
+}
